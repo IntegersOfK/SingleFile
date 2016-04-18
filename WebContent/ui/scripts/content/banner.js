@@ -65,4 +65,5 @@
 	link.addEventListener("click", close, false);
 	closeButton.addEventListener("click", close, false);
 	editButton.addEventListener("click", editName, false);
+	link.click();
 })();

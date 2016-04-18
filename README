@@ -1,3 +1,1 @@
-SingleFile (c) 2011 Gildas Lormeau
-
-SingleFile is a Chrome extension that helps to archive a complete page into a single HTML file.
+SingleFile is a Chrome extension that helps to archive a complete page into a single HTML file. This fork of the main repository has a simple change where the file save window will pop immediately after the page is done processing (rather than waiting for the user to click the save banner).
